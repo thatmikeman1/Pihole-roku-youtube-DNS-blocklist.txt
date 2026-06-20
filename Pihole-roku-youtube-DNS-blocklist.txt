@@ -110,3 +110,17 @@ logs.roku.com
 scribe.logs.roku.com
 cloudservices.roku.com
 customer-feedbacks.web.roku.com
+www3.l.google.com
+googleadservices.com
+configsvc.sc.roku.com
+imasdk.googleapis.com 
+enduser.adsrvr.org	
+cdn.privacy.paramount.com	
+www.googletagmanager.com	
+pagead2.googlesyndication.com	
+www.googletagmanager.com	
+availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com	
+cbsi.demdex.net	
+vod-gcs-qwilt.cbsaavideo.com	
+vod-gcs-google.cbsaavideo.com
+
